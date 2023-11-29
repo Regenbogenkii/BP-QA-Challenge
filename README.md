@@ -1,3 +1,6 @@
+# BP-QA-Challenge
+
+This is QA Challenge project.You can install needed dependencies as the following instruction to see result.
 
 ## Installation
 
